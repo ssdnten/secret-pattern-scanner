@@ -1,0 +1,11 @@
+{
+  "findings": [
+    {
+      "path": "demo.txt",
+      "line": 2,
+      "rule": "password",
+      "value": "[REDACTED]"
+    }
+  ],
+  "skipped": []
+}

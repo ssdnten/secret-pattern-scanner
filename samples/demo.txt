@@ -1,0 +1,3 @@
+# Synthetic fixture: these values are not usable credentials.
+password="fictional-demo-password"
+debug=false
